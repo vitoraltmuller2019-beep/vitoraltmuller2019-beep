@@ -2,7 +2,7 @@ Hi 👋, I'm Vitor Altmuller 👋
 
 <p align="left">
   <a href="https://github.com/VITORALTMULLER">
-    <img src="https://img.shields.io/badge/GitHub-HERBERTCARNAUBADESOUZA-181717?style=for-the-badge&logo=github"
+    <img src="https://img.shields.io/badge/GitHub-VITORALTMULLER-181717?style=for-the-badge&logo=github"
 
     ## 🛠️ Tech Stack
 
