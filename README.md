@@ -1,8 +1,8 @@
 Hi 👋, I'm Vitor Altmuller 👋
 
 <p align="left">
-  <a href="https://github.com/VITORALTMULLER">
-    <img src="https://img.shields.io/badge/GitHub-VITORALTMULLER-181717?style=for-the-badge&logo=github"
+  <a href="https://github.com/vitoraltmuller2019-beep">
+    <img src="https://img.shields.io/badge/GitHub-vitoraltmuller2019-beep-181717?style=for-the-badge&logo=github"
 
     ## 🛠️ Tech Stack
 
